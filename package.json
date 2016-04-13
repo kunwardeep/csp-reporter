@@ -1,0 +1,26 @@
+{
+  "name": "csp-reporter",
+  "version": "1.0.0",
+  "description": "To create an endpoint for reading and reporting csp violations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunwardeep/csp-reporter.git"
+  },
+  "author": "kunwardeep",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kunwardeep/csp-reporter/issues"
+  },
+  "homepage": "https://github.com/kunwardeep/csp-reporter#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "https": "^1.0.0"
+  }
+}
